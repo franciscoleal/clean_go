@@ -1,0 +1,3 @@
+DTO - Data Transfer Object
+
+Vamos começar editando o arquivo core/dto/product.go e definindo o modelo de dados para a request de criação de um novo produto no servidor.
